@@ -1,0 +1,3 @@
+pod 'SVProgressHUD'
+pod 'AFNetworking'
+link_with 'ZaragozaBusInfo'
